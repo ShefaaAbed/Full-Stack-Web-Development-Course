@@ -1,9 +1,8 @@
 # Full-Stack-Web-Development-Projects
 
-Full Stack Web Development Projects include:
-HTML and CSS project
-JS Percentage Calculator project
-Bootstrap-signin project
-Bootstrap-Asia project
-
+Full Stack Web Development Projects include:<br />
+HTML and CSS project<br />
+JS Percentage Calculator project<br />
+Bootstrap-signin project<br />
+Bootstrap-Asia project<br />
 
