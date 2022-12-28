@@ -1,0 +1,72 @@
+.jumbotron{
+    text-align: center;
+}
+.container{
+    padding: 100px;
+}
+.sectionlight{
+    background-color: rgb(175, 173, 173);
+    padding: 2rem;
+}
+.sectiondark{
+    background-color: rgb(104, 102, 102);
+    padding: 2rem;
+}
+.resizeimgs{
+    width: 500px;
+    height: 500px;
+}
+.sectiondark img{
+    width: 80px;
+    height: 130px;
+}
+.coolStuffWrapper {
+    margin-top: 20px;
+
+}
+button.coolStuffBtn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+}
+h1.modal-title{
+    margin: auto;
+}
+.modalFormWrapper{
+    padding: 15px;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+}
+.padd{
+    padding: 10px;
+}
+.footerimg{
+    width: 100%;
+    padding: 15px;
+}
+.ilist{
+    margin: auto;
+}
+.fa-brands {
+    padding: 10px;
+}
+.fa-square-facebook{
+    color: #3b5998;
+  }
+.fa-google-plus-g{
+    color: #c32f10;
+}
+.fa-instagram{
+    color: white;
+}
